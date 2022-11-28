@@ -1,0 +1,15 @@
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/bin/Debug/net6.0/Example001_HelloCons
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/bin/Debug/net6.0/Example001_HelloCons.deps.json
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/bin/Debug/net6.0/Example001_HelloCons.runtimeconfig.json
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/bin/Debug/net6.0/Example001_HelloCons.dll
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/bin/Debug/net6.0/Example001_HelloCons.pdb
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.csproj.AssemblyReference.cache
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.AssemblyInfoInputs.cache
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.AssemblyInfo.cs
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.csproj.CoreCompileInputs.cache
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.dll
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/refint/Example001_HelloCons.dll
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.pdb
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/Example001_HelloCons.genruntimeconfig.cache
+/Users/eduardlevitov/Desktop/Exampl/Example001_HelloCons/obj/Debug/net6.0/ref/Example001_HelloCons.dll
